@@ -1,26 +1,26 @@
 # Uniswap V3 Demo
 
-This project demonstrates on how to integrate uniswap v3 into our solidity smart contracts. We are deploying contracts on forked ethereum mainnet and performing test cases on them.
+This project demonstrates how to integrate Uniswap v3 into our Solidity smart contracts. We are deploying contracts on a forked Ethereum mainnet and performing test cases on them.
 
-Please be noted that the contracts are not production ready. Modify them according to your project requirements.
+Please note that the contracts are not production-ready. Modify them according to your project requirements.
 
 The contracts covers topics on
 
--   how to make a token swap
-    -   Using SingleHop method
-    -   Using Multihop method
--   how to do a flash swap
--   how to manage liquidity.
+- How to make a token swap:
+  - Using SingleHop method
+  - Using Multihop method
+- How to do a flash swap
+- How to manage liquidity
 
-Technology used
+Technogies
 
--   hardhat
--   typescript
+- Hardhat
+- Typescript
 
 To setup
 
 ```sh
-    git clone https://github.com/jveer634/uniswap-v3-demo.git
+    git clone https://github.com/samuedanso/uniswap-v3-demo.git
     cd uniswap-v3-demo
     npm i
 ```
